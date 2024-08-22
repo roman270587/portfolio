@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="720" viewBox="0 0 720 720">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#506900"/>
+      <stop offset="0.581" stop-color="#506900"/>
+      <stop offset="1" stop-color="#1b2300"/>
+    </linearGradient>
+  </defs>
+  <rect id="kk_verlauf_gruen" width="720" height="720" fill="url(#linear-gradient)"/>
+</svg>
