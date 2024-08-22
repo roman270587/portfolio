@@ -1,0 +1,1 @@
+"use strict";class Chip{constructor(s,t){this.name=s,this.value=t}}

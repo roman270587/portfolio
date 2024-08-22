@@ -1,0 +1,1 @@
+"use strict";class Card{constructor(t,s,i){this.color=t,this.title=s,this.value=i,this.key=this.color+this.title}}
